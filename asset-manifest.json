@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/uxmate/static/css/main.a3cb21fd.css",
+    "main.js": "/uxmate/static/js/main.e8df6aa0.js",
+    "static/media/mag.png": "/uxmate/static/media/mag.702379e245cfcc34306b.png",
+    "static/media/mntr.png": "/uxmate/static/media/mntr.21788288fb3877006742.png",
+    "static/media/pad.png": "/uxmate/static/media/pad.7f24cbb819d78e93c09e.png",
+    "static/media/plan.png": "/uxmate/static/media/plan.80d1520d6beff796e520.png",
+    "static/media/disc.png": "/uxmate/static/media/disc.4f8b53f704908771ccca.png",
+    "index.html": "/uxmate/index.html",
+    "main.a3cb21fd.css.map": "/uxmate/static/css/main.a3cb21fd.css.map",
+    "main.e8df6aa0.js.map": "/uxmate/static/js/main.e8df6aa0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3cb21fd.css",
+    "static/js/main.e8df6aa0.js"
+  ]
+}
